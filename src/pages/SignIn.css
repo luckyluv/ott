@@ -1,0 +1,316 @@
+.sign-in .rectangle-38 {
+  opacity: 0.81;
+  border: 1px solid #FFFAFA;
+  background: #0C0101;
+  position: absolute;
+  top: 254px;
+  right: 400px;
+  width: 426px;
+  height: 578px;
+}
+.sign-in .rectangle-40 {
+  opacity: 0.5;
+  border: 1px solid #FFFFFF;
+  background: #B2C2D4;
+  position: absolute;
+  right: 436px;
+  bottom: 322px;
+  width: 359px;
+  height: 64px;
+}
+.sign-in .rectangle-42 {
+  opacity: 0.5;
+  background: #7B7070;
+  position: absolute;
+  right: 437px;
+  bottom: 167px;
+  width: 359px;
+  height: 35px;
+}
+.sign-in .sign-in-1 {
+  margin: 0 3px 36px 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 34px;
+  color: #FFFFFF;
+}
+.sign-in .email-or-mobile-number {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.sign-in .in-91 {
+  margin-right: 3.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.sign-in .polygon-3 {
+  margin: 5px 0 6px 0;
+  width: 8px;
+  height: 7px;
+}
+.sign-in .container-3 {
+  border: 0.5px solid #FFFFFF;
+  background: #120101;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 3px 6px 2px 6px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in .container {
+  border: 1px solid #FFFFFF;
+  background: #110101;
+  position: relative;
+  margin: 0 0 31px 4px;
+  display: flex;
+  flex-direction: column;
+  padding: 8px 0 9px 18px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in .password {
+  margin: 0 22px 69px 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.sign-in .sign-in-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.sign-in .container-6 {
+  background: #B22629;
+  position: relative;
+  margin: 0 0 24px 4px;
+  display: flex;
+  padding: 7px 19px 10px 0;
+  width: 359px;
+  box-sizing: border-box;
+}
+.sign-in .or {
+  margin: 0 6px 24px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.sign-in .use-asign-in-code {
+  margin: 0 16.1px 50px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.sign-in .forgot-password {
+  margin: 0 0 19px 25.8px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+.sign-in .rectangle-45 {
+  background: #D9D9D9;
+  margin: 2px 13px 0 0;
+  width: 10px;
+  height: 10px;
+}
+.sign-in .remember-me {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.sign-in .container-4 {
+  margin: 0 24px 18px 24px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-in .new-to-ott-sign-up-now {
+  margin: 0 0 15px 17.1px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.new-to-ott-sign-up-now-sub5 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 1.333;
+}
+.new-to-ott-sign-up-now-sub2 {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.sign-in .this-page-is-protected-by-google-re-captcha-to-ensure-youre-not-abot-learn-more {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+.this-page-is-protected-by-google-re-captcha-to-ensure-youre-not-abot-learn-more-sub1 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.333;
+  color: #6434C9;
+}
+.sign-in .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.sign-in .container-1 {
+  background: url('assets/images/Netflix002.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 121px;
+  display: flex;
+  padding: 278px 0 8px 45px;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.sign-in .questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information {
+  margin: 0 107.2px 2px 45px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub22 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub23 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub18 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub21 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub20 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub19 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub17 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub16 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.sign-in .english {
+  margin-right: 24.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22px;
+  color: #F5F5F5;
+}
+.sign-in .drop-down {
+  margin: 6.9px 0 3.8px 0;
+  width: 17px;
+  height: 16.3px;
+}
+.sign-in .container-5 {
+  border-radius: 3px;
+  border: 1px solid #FFFAFA;
+  background: #0E0000;
+  position: relative;
+  margin: 0 45px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 15px 6px 0;
+  width: 169px;
+  box-sizing: border-box;
+}
+.sign-in {
+  background: #0D0000;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 23px;
+  width: 1280px;
+  box-sizing: border-box;
+}

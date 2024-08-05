@@ -1,0 +1,473 @@
+.sign-up .netflix-002 {
+  opacity: 0.5;
+  background: url('assets/images/Netflix002.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 832px;
+}
+.sign-up .email-adress-2 {
+  opacity: 0.7;
+  border-radius: 10px;
+  background: #9380E1;
+  position: absolute;
+  left: 179px;
+  bottom: 275px;
+  width: 556px;
+  height: 98px;
+}
+.sign-up .unlimited-movies-tv-shows-and-more-watch-anywhere-cancel-anytime-ready-to-watch-enter-your-email-to-create-or-restart-your-membership {
+  margin: 0 50.7px 337px 85px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 34px;
+  color: #000000;
+}
+.unlimited-movies-tv-shows-and-more-watch-anywhere-cancel-anytime-ready-to-watch-enter-your-email-to-create-or-restart-your-membership-sub26 {
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 59px;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.unlimited-movies-tv-shows-and-more-watch-anywhere-cancel-anytime-ready-to-watch-enter-your-email-to-create-or-restart-your-membership-sub33 {
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 28px;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.sign-up .line-6 {
+  background: #D9D9D9;
+  margin-bottom: 213px;
+  width: 1280px;
+  height: 21px;
+}
+.sign-up .enjoy-on-your-tv-watch-on-smart-tvs-play-station-xbox-chromecast-apple-tv-blu-ray-players-and-more {
+  margin: 0 54px 293px 54px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.enjoy-on-your-tv-watch-on-smart-tvs-play-station-xbox-chromecast-apple-tv-blu-ray-players-and-more-sub1 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 54px;
+  line-height: 1.333;
+}
+.sign-up .line-5 {
+  background: #D9D9D9;
+  margin-bottom: 106px;
+  width: 1280px;
+  height: 21px;
+}
+.sign-up .phone-1 {
+  background: url('assets/images/Phone1.png');
+  margin-right: 178px;
+  width: 288px;
+  height: 308px;
+}
+.sign-up .download-your-shows-to-watch-offline-save-your-favourites-easily-and-always-have-something-to-watch {
+  margin: 75px 0 35px 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.download-your-shows-to-watch-offline-save-your-favourites-easily-and-always-have-something-to-watch-sub1 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 54px;
+  line-height: 1.333;
+}
+.sign-up .container-6 {
+  margin: 0 7.8px 150px 54px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .line-4 {
+  background: #D9D9D9;
+  margin-bottom: 215px;
+  width: 1280px;
+  height: 21px;
+}
+.sign-up .watch-everywhere-stream-unlimited-movies-and-tv-shows-on-your-phone-tablet-laptop-and-tv {
+  margin: 0 56px 234px 56px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.watch-everywhere-stream-unlimited-movies-and-tv-shows-on-your-phone-tablet-laptop-and-tv-sub1 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 54px;
+  line-height: 1.333;
+}
+.sign-up .line-3 {
+  background: #D9D9D9;
+  margin-bottom: 123px;
+  width: 1280px;
+  height: 21px;
+}
+.sign-up .children-1 {
+  background: url('assets/images/Children1.png') 50% / cover no-repeat;
+  margin-right: 143px;
+  width: 375px;
+  height: 404px;
+}
+.create-profiles-for-kids-send-children-on-adventures-with-their-favourite-characters-in-aspace-made-just-for-themfree-with-your-membership {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+}
+.sign-up .create-profiles-for-kids-send-children-on-adventures-with-their-favourite-characters-in-aspace-made-just-for-themfree-with-your-membership {
+  margin: 109px 0 143px 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 54px;
+  color: #FFFFFF;
+}
+.sign-up .container-10 {
+  margin: 0 86.1px 66px 56px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .line-2 {
+  background: #D9D9D9;
+  margin-bottom: 19px;
+  width: 1280px;
+  height: 21px;
+}
+.sign-up .frequently-asked-questions {
+  margin: 0 96.9px 26px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.sign-up .what-is-ott {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.sign-up .container-5 {
+  background: #676161;
+  position: relative;
+  margin: 0 0 26px 35px;
+  padding: 15px 40px 5px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .how-much-does-ott-cost {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.sign-up .container-11 {
+  background: #676161;
+  position: relative;
+  margin: 0 0 26px 35px;
+  padding: 10px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .where-can-iwatch {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFAFA;
+}
+.sign-up .container-3 {
+  background: #676161;
+  position: relative;
+  margin: 0 0 26px 35px;
+  padding: 10px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .how-do-icancel {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFAFA;
+}
+.sign-up .container-8 {
+  background: #676161;
+  position: relative;
+  margin: 0 0 26px 35px;
+  padding: 10px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .what-can-iwatch-on-ott {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFAFA;
+}
+.sign-up .container-7 {
+  background: #676161;
+  position: relative;
+  margin: 0 0 28px 35px;
+  padding: 10px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .is-ott-good-for-kids {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFAFA;
+}
+.sign-up .container-4 {
+  background: #676161;
+  position: relative;
+  margin: 0 0 50px 35px;
+  padding: 8px 40px 12px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.sign-up .email-address-1 {
+  position: relative;
+  margin: 8px 17px 56px 0;
+  display: inline-block;
+  width: 187px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.sign-up .get-started-1 {
+  margin-right: 26.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 34px;
+  color: #FFFFFF;
+}
+.sign-up .vector-1 {
+  margin-bottom: 2px;
+  width: 23px;
+  height: 39px;
+}
+.sign-up .container-12 {
+  border-radius: 10px;
+  background: #F81E1E;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 28px 0 29px 0;
+  width: 328px;
+  box-sizing: border-box;
+}
+.sign-up .container {
+  margin: 0 0 16px 62px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 928px;
+  box-sizing: border-box;
+}
+.sign-up .line-1 {
+  background: #D9D9D9;
+  margin-bottom: 31px;
+  width: 1280px;
+  height: 21px;
+}
+.sign-up .questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information {
+  margin: 0 19px 2px 19px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub23 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub17 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub18 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub16 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub22 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub21 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub20 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-terms-of-use-privacy-cookie-preferences-corporate-information-sub19 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.sign-up .english {
+  margin-right: 24.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22px;
+  color: #F5F5F5;
+}
+.sign-up .drop-down {
+  margin: 6.9px 0 3.8px 0;
+  width: 17px;
+  height: 16.3px;
+}
+.sign-up .container-9 {
+  border-radius: 3px;
+  border: 1px solid #FFFAFA;
+  background: #0E0000;
+  position: relative;
+  margin: 0 19px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 15px 6px 0;
+  width: 169px;
+  box-sizing: border-box;
+}
+.sign-up .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.sign-up .email-adress {
+  opacity: 0.7;
+  border-radius: 10px;
+  background: #9380E1;
+  position: absolute;
+  left: 129px;
+  top: 521px;
+  width: 556px;
+  height: 98px;
+}
+.sign-up .get-started {
+  margin-right: 26.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 34px;
+  color: #FFFFFF;
+}
+.sign-up .vector {
+  margin-bottom: 2px;
+  width: 23px;
+  height: 39px;
+}
+.sign-up .container-1 {
+  border-radius: 10px;
+  background: #F81E1E;
+  position: absolute;
+  top: 521px;
+  right: 195px;
+  display: flex;
+  flex-direction: row;
+  padding: 28px 0 29px 0;
+  width: 328px;
+  box-sizing: border-box;
+}
+.sign-up .email-address {
+  position: absolute;
+  left: 157px;
+  top: 529px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 28px;
+  color: #FFFFFF;
+}
+.sign-up .tv-1 {
+  background: url('assets/images/Tv1.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 994px;
+  right: -22px;
+  width: 536px;
+  height: 357px;
+}
+.sign-up .tablet-31415312811 {
+  background: url('assets/images/Tablet31415312811.png') 50% / cover no-repeat;
+  position: absolute;
+  right: 6px;
+  bottom: 1759px;
+  width: 576px;
+  height: 415px;
+}
+.sign-up {
+  background: #0D0000;
+  display: flex;
+  padding: 342px 0 50px 0;
+  width: 1280px;
+  box-sizing: border-box;
+}

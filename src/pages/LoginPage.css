@@ -1,0 +1,626 @@
+.login-page .unlimited-movies-tv-shows-and-more {
+  margin: 343px 14.2px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Josefin Sans';
+  font-weight: 400;
+  font-size: 80px;
+  color: #FFFFFF;
+}
+.login-page .english-1 {
+  margin-right: 24.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22px;
+  color: #F5F5F5;
+}
+.login-page .drop-down-1 {
+  margin: 6.9px 0 3.8px 0;
+  width: 17px;
+  height: 16.3px;
+}
+.login-page .container-19 {
+  border-radius: 3px;
+  border: 1px solid #FFFAFA;
+  background: #0E0000;
+  position: relative;
+  margin: 0 17px 548px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 2px 15px 6px 0;
+  width: 169px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-page .sign-in {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22px;
+  color: #FFFAFA;
+}
+.login-page .container-22 {
+  border-radius: 3px;
+  background: #F81E1E;
+  position: relative;
+  margin-bottom: 548px;
+  display: flex;
+  padding: 2px 6.6px 6px 5px;
+  box-sizing: border-box;
+}
+.login-page .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.login-page .start-your-membership {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-page .container-10 {
+  border-radius: 2px;
+  background: #F81E1E;
+  position: absolute;
+  left: 451px;
+  bottom: 321px;
+  padding: 4px 44px 5px 44px;
+  width: 518px;
+  box-sizing: border-box;
+}
+.login-page .container {
+  background: url('assets/images/Netflix002.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 426px;
+  display: flex;
+  padding: 101px 0 0 171px;
+  width: 1440px;
+  height: 1008px;
+  box-sizing: border-box;
+}
+.login-page .get-more-from-your-membership {
+  margin: 0 512.8px 1px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 42px;
+  color: #FFFFFF;
+}
+.login-page .game-box {
+  border-radius: 49px;
+  background: url('assets/images/GameBox.jpeg');
+  margin: 0 591px 95px 0;
+  align-self: center;
+  width: 523px;
+  height: 553px;
+}
+.login-page .more-reasons-to-join {
+  margin: 0 768.8px 58px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 42px;
+  color: #FFFFFF;
+}
+.login-page .stories-tailored-to-your-taste {
+  margin-bottom: 39px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 42px;
+  color: #FFFFFF;
+}
+.login-page .netflix-021 {
+  background: url('assets/images/Netflix021.png') 50% / cover no-repeat;
+  margin-left: 59.7px;
+  align-self: center;
+  width: 137px;
+  height: 146px;
+}
+.login-page .container-17 {
+  border-radius: 50px;
+  background: linear-gradient(155.38deg, #210606 1.8%, #B683E9 98.2%);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 37px 0 2px 20px;
+  width: 267px;
+  box-sizing: border-box;
+}
+.login-page .cancel-or-switch-plans-anytime {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 42px;
+  color: #FFFFFF;
+}
+.login-page .container-14 {
+  border-radius: 50px;
+  background: linear-gradient(155.38deg, #210606 1.8%, #B683E9 98.2%);
+  position: relative;
+  display: flex;
+  padding: 37px 2.4px 0 20px;
+  height: 371px;
+  box-sizing: border-box;
+}
+.login-page .aplace-just-for-kids {
+  margin-bottom: 102px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 42px;
+  color: #FFFFFF;
+}
+.login-page .netflix-031 {
+  background: url('assets/images/Netflix031.png') 50% / cover no-repeat;
+  margin-left: 92.8px;
+  width: 114px;
+  height: 117px;
+}
+.login-page .container-20 {
+  border-radius: 50px;
+  background: linear-gradient(155.38deg, #210606 1.8%, #B683E9 98.2%);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 37px 15.8px 17px 18px;
+  box-sizing: border-box;
+}
+.login-page .for-your-phone-tablet-laptop-and-tv {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 42px;
+  color: #FFFFFF;
+}
+.login-page .container-9 {
+  border-radius: 50px;
+  background: linear-gradient(155.38deg, #210606 1.8%, #B683E9 98.2%);
+  position: relative;
+  display: flex;
+  padding: 37px 18.6px 0 16px;
+  height: 371px;
+  box-sizing: border-box;
+}
+.login-page .container-15 {
+  margin: 0 104px 184px 104px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  column-gap: 41px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .amazedaar-pack-with-25-super-otts {
+  margin: 0 18.3px 77px 0;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 42px;
+  color: #FFFFFF;
+}
+.login-page .zee-51 {
+  background: url('assets/images/Zee51.png') 50% / cover no-repeat;
+  margin: 18px 0 19px 0;
+  width: 149px;
+  height: 153px;
+}
+.login-page .netflix-0611 {
+  background: url('assets/images/Netflix0611.png') 50% / cover no-repeat;
+  width: 254px;
+  height: 190px;
+}
+.login-page .container-13 {
+  display: flex;
+  flex-direction: row;
+  width: 403px;
+  box-sizing: border-box;
+}
+.login-page .liongate-play-1 {
+  background: url('assets/images/LiongatePlay1.png') 50% / cover no-repeat;
+  margin: 0 94px 4px 0;
+  width: 273px;
+  height: 143px;
+}
+.login-page .sony-liv-1 {
+  background: url('assets/images/SonyLiv1.jpeg') 50% / cover no-repeat;
+  width: 147px;
+  height: 147px;
+}
+.login-page .container-24 {
+  margin: 18px 0 25px 0;
+  display: flex;
+  flex-direction: row;
+  width: 514px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-page .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1398px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.login-page .amazon-prime-video-emblem-1 {
+  background: url('assets/images/AmazonPrimeVideoEmblem1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 399px;
+  top: 104px;
+  width: 257px;
+  height: 144px;
+}
+.login-page .disney-hotstar-32681 {
+  background: url('assets/images/DisneyHotstar32681.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 51px;
+  right: 535px;
+  width: 259px;
+  height: 194px;
+}
+.login-page .container-3 {
+  background: #F5F5F5;
+  position: relative;
+  margin-bottom: 39px;
+  display: flex;
+  padding: 77px 21px 107px 21px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.login-page .frequently-asked-questions {
+  margin: 0 126px 16px 126px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-page .what-is-ott {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-page .container-6 {
+  background: #676161;
+  position: relative;
+  margin: 0 130px 26px 130px;
+  align-self: flex-start;
+  padding: 15px 40px 5px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .how-much-does-ott-cost {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-page .container-11 {
+  background: #676161;
+  position: relative;
+  margin: 0 130px 26px 130px;
+  align-self: flex-start;
+  padding: 10px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .where-can-iwatch {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFAFA;
+}
+.login-page .container-1 {
+  background: #676161;
+  position: relative;
+  margin: 0 130px 26px 130px;
+  align-self: flex-start;
+  padding: 10px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .how-do-icancel {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFAFA;
+}
+.login-page .container-5 {
+  background: #676161;
+  position: relative;
+  margin: 0 130px 26px 130px;
+  align-self: flex-start;
+  padding: 10px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .what-can-iwatch-on-ott {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFAFA;
+}
+.login-page .container-21 {
+  background: #676161;
+  position: relative;
+  margin: 0 130px 28px 130px;
+  align-self: flex-start;
+  padding: 10px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .is-ott-good-for-kids {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFAFA;
+}
+.login-page .container-18 {
+  background: #676161;
+  position: relative;
+  margin: 0 130px 39px 130px;
+  align-self: flex-start;
+  padding: 8px 40px 12px 40px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .start-your-membership-1 {
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre Medium', 'Roboto Condensed';
+  font-weight: 500;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-page .container-12 {
+  border-radius: 2px;
+  background: #F81E1E;
+  position: relative;
+  margin: 0 134px 38px 134px;
+  align-self: flex-start;
+  padding: 4px 44px 5px 44px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1946 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1942 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1939 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1950 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1948 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1952 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1947 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1943 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1940 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1945 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1938 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1937 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1936 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.login-page .questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices {
+  margin: 0 42px 47px 42px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 21px;
+  color: #FFFFFF;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1949 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1944 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices-sub1941 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.questions-call-0008009191694-faq-help-centre-account-media-centre-investor-relations-jobs-ways-to-watch-terms-of-use-privacy-cookie-preferences-corporate-information-contact-us-speed-test-legal-notices {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 21px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+}
+.login-page .english {
+  margin-right: 24.6px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 22px;
+  color: #F5F5F5;
+}
+.login-page .drop-down {
+  margin: 5.1px 0 6.9px 0;
+  width: 17px;
+  height: 15px;
+}
+.login-page .container-2 {
+  border-radius: 3px;
+  border: 1px solid #FFFAFA;
+  background: #0E0000;
+  position: relative;
+  margin: 0 42px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 2px 15px 6px 0;
+  width: 169px;
+  box-sizing: border-box;
+}
+.login-page .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.login-page .container-8 {
+  position: absolute;
+  top: 973px;
+  right: -65px;
+  width: 1569px;
+  height: 211px;
+}
+.login-page .plans-to-suit-your-needs-and-your-budget {
+  margin-bottom: 21px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Aclonica';
+  font-weight: 400;
+  font-size: 45px;
+  color: #FFFFFF;
+}
+.login-page .enjoy-starting-at-just-149 {
+  margin-right: 96.1px;
+  overflow-wrap: break-word;
+  font-family: 'Abhaya Libre ExtraBold', 'Roboto Condensed';
+  font-weight: 800;
+  font-size: 42px;
+  color: #F5F5F5;
+}
+.login-page .container-23 {
+  border-radius: 16px;
+  background: linear-gradient(90.05deg, #9380E1 0%, #EB2A92 141.6%);
+  position: absolute;
+  top: 1102px;
+  right: 67px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 35px 109.6px 25px 76px;
+  box-sizing: border-box;
+}
+.login-page .netflix-041 {
+  background: url('assets/images/Netflix041.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 506px;
+  bottom: 1764px;
+  width: 214px;
+  height: 180px;
+}
+.login-page .netflix-051 {
+  background: url('assets/images/Netflix051.png') 50% / cover no-repeat;
+  transform: rotate(10.29deg);
+  position: absolute;
+  right: 65.8px;
+  bottom: 1744.6px;
+  width: 230.4px;
+  height: 215.7px;
+}
+.login-page {
+  background: #0E0000;
+  display: flex;
+  padding-bottom: 63px;
+  width: 1440px;
+  box-sizing: border-box;
+}

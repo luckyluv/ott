@@ -1,0 +1,397 @@
+.home-page .home {
+  margin-right: 12px;
+  width: 56px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .tv-show {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .movies {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .new-popular {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .my-list {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .browse-by-language {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .container {
+  margin: 0 21px 489px 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 879.2px;
+  box-sizing: border-box;
+}
+.home-page .wolverine-is-recovering-from-his-injuries-when-he-crosses-paths-with-the-loudmouth-deadpool-they-team-up-to-defeat-acommon-enemy {
+  margin-bottom: 56px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Irish Grover';
+  font-weight: 400;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .play-button {
+  border-radius: 3px;
+  background: #FFFAFA;
+  margin-right: 25px;
+  width: 111px;
+  height: 42px;
+}
+.home-page .vector {
+  margin: 2.1px 11px 1.2px 0;
+  width: 20px;
+  height: 20.7px;
+}
+.home-page .more-info {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .container-2 {
+  border-radius: 3px;
+  background: #C7C2C2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 12.3px 11px 12px;
+  box-sizing: border-box;
+}
+.home-page .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home-page .play-sign {
+  position: absolute;
+  left: 13px;
+  top: 7px;
+  width: 27px;
+  height: 27px;
+}
+.home-page .play {
+  position: absolute;
+  left: 56px;
+  bottom: 9px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+}
+.home-page .container-7 {
+  position: relative;
+  margin: 0 7px 115px 7px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.home-page .popular {
+  margin: 0 7px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.home-page .container-8 {
+  background: url('assets/images/CoverVideo1.gif') 50% / cover no-repeat;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 41px 0 45px 43px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page .poster-1 {
+  background: url('assets/images/Poster1.jpeg') 50% / cover no-repeat;
+  margin-bottom: 1px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-6 {
+  background: url('assets/images/Poster6.jpeg') 50% / cover no-repeat;
+  margin-top: 1px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-11 {
+  background: url('assets/images/Poster11.jpeg') 50% / cover no-repeat;
+  margin-bottom: 1px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .container-3 {
+  margin: 0 93px 147px 92px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 114px;
+  width: 1095px;
+  box-sizing: border-box;
+}
+.home-page .poster-3 {
+  background: url('assets/images/Poster3.jpeg') 50% / cover no-repeat;
+  margin-bottom: 1px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-8 {
+  background: url('assets/images/Poster8.jpeg') 50% / cover no-repeat;
+  margin-top: 1px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-13 {
+  background: url('assets/images/Poster13.jpeg') 50% / cover no-repeat;
+  margin-bottom: 1px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .container-12 {
+  margin: 0 93px 521px 92px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 114px;
+  width: 1095px;
+  box-sizing: border-box;
+}
+.home-page .play-button-1 {
+  border-radius: 3px;
+  background: #FFFAFA;
+  position: absolute;
+  left: 26px;
+  bottom: 233px;
+  width: 111px;
+  height: 42px;
+}
+.home-page .play-1 {
+  margin: 9px 39.9px 9px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+}
+.home-page .vector-1 {
+  margin: 2.7px 11px 0.6px 0;
+  width: 20px;
+  height: 20.7px;
+}
+.home-page .more-info-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .container-4 {
+  border-radius: 3px;
+  background: #C7C2C2;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 7px 12.3px 11px 12px;
+  box-sizing: border-box;
+}
+.home-page .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home-page .play-sign-2 {
+  position: absolute;
+  left: 39px;
+  bottom: 241px;
+  width: 27px;
+  height: 27px;
+}
+.home-page .container-5 {
+  background: url('assets/images/CoverVideo2.gif') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 515px;
+  padding: 785px 82px 233px 82px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.home-page .poster-4 {
+  background: url('assets/images/Poster4.jpeg') 50% / cover no-repeat;
+  margin-bottom: 1px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-9 {
+  background: url('assets/images/Poster9.jpeg') 50% / cover no-repeat;
+  margin-top: 1px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-14 {
+  background: url('assets/images/Poster14.jpeg') 50% / cover no-repeat;
+  margin-bottom: 1px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .container-9 {
+  margin: 0 80px 0 105px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 114px;
+  width: 1095px;
+  box-sizing: border-box;
+}
+.home-page .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.home-page .deadpool-wolverine-1 {
+  background: url('assets/images/DeadpoolWolverine1.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -20px;
+  top: 351px;
+  width: 422px;
+  height: 175px;
+}
+.home-page .up-coming {
+  position: absolute;
+  left: 43px;
+  top: 514px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 20px;
+  color: #FFFAFA;
+}
+.home-page .in-tv-show-today {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.home-page .container-11 {
+  background: url('assets/images/Fallout11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -52px;
+  bottom: 1453px;
+  display: flex;
+  padding-right: 159.4px;
+  width: 514px;
+  height: 274px;
+  box-sizing: border-box;
+}
+.home-page .fallouts-protagonist-the-vault-dweller-inhabits-an-underground-nuclear-shelter-the-player-must-scour-the-surrounding-wasteland-for-acomputer-chip-that-can-fix-the-vaults-failed-water-supply-system-they-interact-with-other-survivors-some-of-whom-give-them-missions-and-engage-in-turn-based-combat {
+  position: absolute;
+  left: 26px;
+  bottom: 1328px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.fallouts-protagonist-the-vault-dweller-inhabits-an-underground-nuclear-shelter-the-player-must-scour-the-surrounding-wasteland-for-acomputer-chip-that-can-fix-the-vaults-failed-water-supply-system-they-interact-with-other-survivors-some-of-whom-give-them-missions-and-engage-in-turn-based-combat-sub31 {
+  font-family: 'Irish Grover';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.fallouts-protagonist-the-vault-dweller-inhabits-an-underground-nuclear-shelter-the-player-must-scour-the-surrounding-wasteland-for-acomputer-chip-that-can-fix-the-vaults-failed-water-supply-system-they-interact-with-other-survivors-some-of-whom-give-them-missions-and-engage-in-turn-based-combat {
+  font-family: 'Irish Grover';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.home-page .poster-2 {
+  background: url('assets/images/Poster2.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 105px;
+  bottom: 660px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-5 {
+  background: url('assets/images/Poster5.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 92px;
+  bottom: 2033px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-7 {
+  background: url('assets/images/Poster7.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: 483px;
+  bottom: 659px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-10 {
+  background: url('assets/images/Poster10.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 2032px;
+  translate: -50% 0;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-12 {
+  background: url('assets/images/Poster12.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: 80px;
+  bottom: 660px;
+  width: 289px;
+  height: 443px;
+}
+.home-page .poster-15 {
+  background: url('assets/images/Poster15.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  right: 93px;
+  bottom: 2033px;
+  width: 289px;
+  height: 443px;
+}
+.home-page {
+  background: #0E0000;
+  padding-bottom: 68px;
+  width: 1280px;
+  box-sizing: border-box;
+}
